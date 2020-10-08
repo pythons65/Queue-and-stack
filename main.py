@@ -29,7 +29,6 @@ x.add(1)
 x.add(4)
 x.add(1)
 x.add(4)
-x.add(1)
-x.add(4)
+
 print(x.remove())
 print(x.showQueue())
